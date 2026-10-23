@@ -1,6 +1,6 @@
 cask "voiceinput" do
-  version "0.92.0"
-  sha256 "3e87f973a31104f7d89a9257539847c9c4243143ee0e529e26fc8f4e9d978c10"
+  version "0.92.1"
+  sha256 "c9659ae3f8b00e31771db0934dd50039b26c0e8c39d81043fa703672c646946f"
 
   url "https://dl.voiceinput.app/VoiceInput_v#{version}.dmg"
   name "VoiceInput"
